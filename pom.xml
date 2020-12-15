@@ -7,7 +7,7 @@
     <artifactId>hessian-hello-client</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <description>学习Hessian-HellowWorld-Client</description>
+    <description>学习Hessian-HelloWorld-Client</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
